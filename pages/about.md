@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About You
-permalink: /about
+title: About Me
+permalink: /About Me
 ---
 
 # Portfolio Jekyll Theme
